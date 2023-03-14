@@ -1,0 +1,69 @@
+* {
+
+	padding: 20px 20px ;
+}
+
+header {
+	display: flex;
+	justify-content: center;
+	background-color: #d8fcf5;
+	border-radius: 10px;
+	padding: 40px 0px;
+
+}
+
+#sobre {
+	background-color: #7e7eef;
+	border-radius: 10px;
+	margin: 15px 5px;
+	
+}
+
+
+#habilidades {
+	background-color: #74dfc9;
+	border-radius: 10px;
+	margin: 5px;
+	padding-left: 10px;
+}
+
+.table-skill {}
+
+.table-skill td,
+th {
+	border-bottom-style: inset;
+	padding: 3vw;
+
+
+}
+
+
+
+footer {
+
+	background-color: #d8fcf5;
+	border-radius: 10px;
+	margin: 5px;
+	padding-left: 10px;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	color: rgb(83, 26, 175);
+
+}
+
+.profile-img {
+	scale: 1.2;
+	border-radius: 90%;
+	
+}
+
+.profile-img:hover {
+	box-shadow: 1px  #7e7eef;
+	scale: 1.3;
+	
+}
